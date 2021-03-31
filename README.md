@@ -28,3 +28,7 @@ This application automates that process.
 The application will prompt the user to give a path to the directory containing their `openmw.cfg` file. Most players can leave this blank and let the application use the default path.
 
 Note: This is NOT the `openmw.cfg` file located in their `OpenMW` application directory. It is the config file located in their user directory, along with their saves.
+
+## Resources
+- OpenMW Website: https://openmw.org/en/
+- OpenMW Installing Mods Documentation: https://openmw.readthedocs.io/en/stable/reference/modding/mod-install.html
