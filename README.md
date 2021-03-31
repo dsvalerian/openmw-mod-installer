@@ -14,13 +14,14 @@ This application automates that process.
 
 ## Usage
 - Place the `.exe` file in the same directory as your mod data folders. It should look something like this:
-  -- mods_folder/
-    -- mod1_folder/
-    -- mod2_folder/
-    -- mod3_folder/
-    -- openmw-mod-installer `.exe`
+ 
+  - mods_folder/
+    - mod1_folder/
+    - mod2_folder/
+    - mod3_folder/
+    - openmw-mod-installer `.exe`
     
-- Click and run the .`exe`
+- Click and run the `.exe`
 - Follow the on-screen instructions.
 - Afterwards, make sure to launch the `OpenMW` launcher and check any data files that are included with your mods.
 
