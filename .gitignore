@@ -2,6 +2,7 @@
 env/
 
 # pyinstaller stuff
+dist/
 build/
 src/__pycache__
 *.spec
