@@ -1,7 +1,8 @@
 import os
+import appinfo
 
 def print_app_info():
-    print('OpenMW Mod Installer\nv1.0\n\nType "-help" for help.')
+    print(appinfo.NAME + '\nv' + appinfo.VERSION + '\n\nType "-help" for help.')
 
 def print_help_menu(default_file_location):
     print('Help:\n')  
@@ -49,6 +50,7 @@ def get_cfg_file_input(default_file_location):
 
             # check if getting help menu
             if '-help' in cfg_file_location:
+                print()
                 print_help_menu(default_file_location)
                 continue
 
