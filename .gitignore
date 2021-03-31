@@ -1,0 +1,7 @@
+# virtual environment
+env/
+
+# pyinstaller stuff
+build/
+src/__pycache__
+*.spec
