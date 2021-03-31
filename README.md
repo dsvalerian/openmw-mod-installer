@@ -7,7 +7,7 @@ Like other Bethesda games, Morrowind has a very active modding community with ne
 When playing Morrowind using OpenMW, the process for installing mods is different than for the release version of the game.
 This portable application was written to make that process easier.
 
-## General Modding Process
+## General Modding Process for OpenMW
 OpenMW players generally have an `openmw.cfg` file in a Users subdirectory. To install mods, they must have the mod packaged in a data folder, then go to the `openmw.cfg` and manually add a line for each mod folder, structured like `data="<mod_folder_path>"`.
 
 This application automates that process.
